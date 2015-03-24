@@ -22,12 +22,13 @@ Markdown 使用星号和底线来标记需要强调的区段
 * Gum
 * Booze
 
-+ Candy
-+ Gum
++ Booze
++ Booze
 + Booze
 
-- Candy
-- Gum
+
+- Booze
+- Booze
 - Booze
 
 
