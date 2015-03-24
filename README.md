@@ -65,6 +65,7 @@ I start my morning with a cup of coffee and
 
 
 ###图片的语法和链接很像
+图像和链接非常类似，区别在开头加一个惊叹号
 
 行内形式（title 是选择性的）：
 ![alt text](/path/to/img.jpg "Title")
