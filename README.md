@@ -22,14 +22,6 @@ Markdown 使用星号和底线来标记需要强调的区段
 * lin
 * lin
 
-+ Mark
-+ Mark
-+ Mark
-
-- Blue
-- Blue
-- Blue
-
 有序的列表则是使用一般的数字接着一个英文句点作为项目标记：
 
 1. Red
