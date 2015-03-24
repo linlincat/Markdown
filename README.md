@@ -18,17 +18,17 @@ Markdown 使用星号和底线来标记需要强调的区段
 
 无序列表使用星号、加号和减号来做为列表的项目标记，这些符号是都可以使用的
 
-* Candy.
-* Gum.
-* Booze.
+* Candy
+* Gum
+* Booze
 
-+ Candy.
-+ Gum.
-+ Booze.
++ Candy
++ Gum
++ Booze
 
-- Candy.
-- Gum.
-- Booze.
+- Candy
+- Gum
+- Booze
 
 
 有序的列表则是使用一般的数字接着一个英文句点作为项目标记：
